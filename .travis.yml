@@ -4,7 +4,7 @@ script :
 notifications: 
   email:
     recipients:
-      sudhakar.sah@gmail.com
+      sudhakar.sah@iitdalumni.com
     on_success : never 
     on_failure : always 
 
